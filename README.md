@@ -1,6 +1,13 @@
-# Disc-POO-2024.1-T01
-## O quê é esse diretório?
-### - Esse é o diretório do Trabalho 01 da primeira etapa da disciplina de POO.
-## Onde se passa essa disciplina?
-### - A disciplina de POO faz parte do terceiro período do Curso Técnico Subsequente 
-###  em Informática no IFCE Fortaleza.
+# Informações deste repositório
+### O quê é este repositório:
+### - Este é o repositório do Trabalho 01 da primeira etapa da disciplina de POO.
+### O quê é este trabalho:
+### O Trabalho consiste na resolução das questões propostas no livro
+### Fundamentos da Programação de Computadores.
+### Onde se passa:
+### - A disciplina de POO faz parte do Terceiro Semestre do Curso Técnico Subsequente em Informática,
+###  ministrada no Instituto Federal do Ceará.
+### Professor:
+### - Roger Moura Sarmento
+### Integrantes do Projeto:
+### - Ana Letícia, Miguel Angelo, João Marcelo, Raúl Simioni.
