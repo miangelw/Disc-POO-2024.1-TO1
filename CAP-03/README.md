@@ -1,7 +1,11 @@
-# CAP-03
-## O quê é essa pasta?
-### - Esse pasta é do capítulo 3 do livro Fundamentos da Programação de Computadores.
-## Quem são os autorres deste livro?
-### Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos. 
-## O que se passa nesse capítulo?
-### - Exercícios que estão resolvidos dentro da pasta.
+<h1 align="center">
+    <p> Capítulo 3
+   
+</h1>
+
+## Exercícios Propostos:
+#### Exercícios: 1, 2, 3, 8, 12, 13, 16, 18, 20, 23.
+
+## Exercícios Resolvidos:
+#### Todos os 25.
+
