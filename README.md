@@ -16,5 +16,3 @@
 #### Esses exercícios são requisitados pelo Trabalho 01, da disciplina de Programação Orientada a Objeto, no semestre 2024.1, lecionada no Instituto Federal do Ceará. 
 
 #### Professor da disciplina: [Roger Sarmento.](https://github.com/rogermsarmento)
-
-######GitClone de João Marcelo
