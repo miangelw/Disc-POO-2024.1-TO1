@@ -6,7 +6,7 @@
 
 ## Integrantes do projeto:
 * [Letícia Barbosa](https://github.com/aleticiabarbosa)
-* [Miguel Ângelo](https://github.com/miangelw)
+* [Miguel Angelo](https://github.com/miangelw)
 * [João Marcelo](https://github.com/jmcolombini)
 * [Raúl Simioni](https://github.com/raulscarvalho)
 
